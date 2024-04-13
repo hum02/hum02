@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-주로 java,spring 백엔드에 관심이 있습니다.
-
-- 🌱 I’m currently learning ...
-
-    Spring / JPA / OOP / AWS 
+백엔드 관련 개발을 주로 공부합니다.
+DB / java / spring / docker / aws ...
 
 - 📫 How to reach me: 
 
